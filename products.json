@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Artistic button up",
+    "year": "retro",
+    "price": "$120.00 ",
+    "description": ["Try out your rizz"],
+    "image": "images/art-ti.webp"
+  },
+  {
+    "name": "Beige up shirt",
+    "year": "retro",
+    "price": "$100.00",
+    "description": ["Try out your rizz"],
+    "image": "images/beige.button.up.webp"
+  },
+  {
+    "name": "Black button shirt",
+    "year": "retro",
+    "price": "$99.00",
+    "description": ["Try out your rizz"],
+    "image": "images/black-button-up.webp"
+  },
+  {
+    "name": "Pattern button up shirt",
+    "year": "retro",
+    "price": "$120.00",
+    "description": ["Try out your rizz"],
+    "image": "images/button-up-shirt.webp"
+  },
+  {
+    "name": "two men in style",
+    "year": "retro",
+    "price": "$90.00",
+    "description": ["Try out your rizz"],
+    "image": "images/two-men.jpg"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "Retro",
+    "price": "$60.00",
+    "description": ["Try out your rizz"],
+    "image": "images/circle-patterns.webp"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "retro",
+    "price": "$30.00",
+    "description": ["Try out your rizz"],
+    "image": "images/crazier-button-up.webp"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "retro",
+    "price": "$40.00",
+    "description": ["Try out your rizz"],
+    "image": "images/crazy-button-up.webp"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "retro",
+    "price": "$50.00",
+    "description": ["Try out your rizz"],
+    "image": "images/decent-button-up-shirt.webp"
+  },
+  {
+    "name": "v-neck",
+    "year": "new-age",
+    "price": "$50.00",
+    "description": ["Try out your rizz"],
+    "image": "images/light-man-in-bl.webp"
+  },
+  {
+    "name": "Fan Fav",
+    "year": "All-time",
+    "price": "$500.00+",
+    "description": ["Try out your rizz"],
+    "image": "images/light-man-in.webp"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "retro",
+    "price": "$70.00",
+    "description": ["Try out your rizz"],
+    "image": "images/light-man-in0shirt.webp"
+  },
+  {
+    "name": "Tuxedo.",
+    "year": "new-age",
+    "price": "$500.00",
+    "description": ["Try out your rizz"],
+    "image": "images/yougin-suit.jpg"
+  },
+  {
+    "name": "Trends",
+    "year": "retro",
+    "price": "$30.00",
+    "description": ["Try out your rizz"],
+    "image": "images/peep-the-fit.webp"
+  },
+  {
+    "name": "Patterned shirt",
+    "year": "retro",
+    "price": "$60.00",
+    "description": ["Try out your rizz"],
+    "image": "images/pink-white-button-up.webp"
+  },
+  {
+    "name": "Couples pass",
+    "year": "retro",
+    "price": "$20.00",
+    "description": ["Try out In a pair."],
+    "image": "images/the-pose.jpg"
+  }
+]
